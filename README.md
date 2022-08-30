@@ -1,4 +1,8 @@
-**THIS ADD-ON IS ONLY FOR DEMONSTRATION --- IT HASN'T BEEN TESTED IN LIVE SITES --- USE IT AT YOUR OWN RISK**
+⚠ This add-on is only for demonstration.
+
+⚠ It hasn't been tested in live sites.
+
+⚠ Use it at your own risk.
 
 # Description
 
