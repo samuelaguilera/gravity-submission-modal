@@ -21,6 +21,11 @@ When the user clicks the submit/next/previous button, a full screen modal with a
 - The user is redirected if you're using a Page/Redirect confirmation or add-on doing redirection to a third-party site (e.g. PayPal Standard).
 - The page loads with a validation error (e.g. Required field was left empty).
 
+### Screenshot
+
+![Modal](https://user-images.githubusercontent.com/1039772/187475388-fafd654b-5fc9-4529-bef3-8374da685313.png)
+
+
 # Limitations
 
 Not intended for forms using ajax submission or requiring user interaction without page reload after clicking the submit button (e.g. PayPal Checkout, Stripe asking for 3D Secure validation, or any other add-on showing a popup after clicking the submit button).
