@@ -32,4 +32,7 @@ When the user clicks the submit/next/previous button, a full screen modal with a
 
 # Limitations
 
-Not intended for forms using ajax submission or requiring user interaction without page reload after clicking the submit button (e.g. PayPal Checkout, Stripe asking for 3D Secure validation, or any other add-on showing a popup after clicking the submit button).
+Not intended for:
+
+* Forms using ajax submission.
+* Add-Ons requiring user interaction without page reload after clicking the submit button (e.g. PayPal Checkout, Stripe asking for 3D Secure validation, or any other add-on showing a popup after clicking the submit button).
